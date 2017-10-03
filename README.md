@@ -22,11 +22,11 @@ A JavaScript Package for finding the smallest element of an array.
 
 #### For Development
 ```js
-<script src=""></script>
+<script src="https://rawgit.com/Prosen-Ghosh/smallest-element/master/smallest.js"></script>
 ```
 #### For Production
 ```js
-<script src=""></script>
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/smallest-element/9406abf2/smallest.js"></script>
 ```
 
 
